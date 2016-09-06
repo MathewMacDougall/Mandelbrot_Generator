@@ -1,4 +1,13 @@
+# Compiled source #
 *.class
+
+# Images #
+*.png
+
+# Eclipse files #
+*.project
+*.classpath
+*.settings
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
